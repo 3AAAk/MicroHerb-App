@@ -14,5 +14,4 @@
     npx expo start
    ```
 
-
-![image](https://github.com/user-attachments/assets/8b207033-b1a9-4d40-828a-cc63b86a20cb)
+ 
